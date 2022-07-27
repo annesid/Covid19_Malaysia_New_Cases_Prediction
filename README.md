@@ -17,7 +17,7 @@ This project will predict new cases for Covid19 in Malaysia using deep learning 
 
 ### 0.16% MAPE
 
-Below is the prediction graph. with 0.16% MAPE (Mean Absolute Percentage Error).
+Below is the actual vs prediction graph. with 0.16% MAPE (Mean Absolute Percentage Error).
 
 
 <img width="358" alt="Covid19_PredictionGraph" src="https://user-images.githubusercontent.com/106498393/181194191-21a4a1a8-bd98-48f8-8f37-5549be39935f.png">
